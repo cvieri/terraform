@@ -13,9 +13,11 @@ This repository contains Terraform configurations for managing infrastructure on
    ```sh
    git clone https://github.com/cvieri/terraform.git
    cd terraform
+
 2. **Initiate**
-  ```sh
-  terraform init
+   ```sh
+   terraform init
+
 3. **Apply**
-  ```sh
-  terraform apply
+   ```sh
+   terraform apply
